@@ -1,2 +1,2 @@
-# EPPL-Act-15-rea-per-metro-rect-ngulo
+# EPPL-Act-15-area-perimetro-rectangulo
 Act 15
